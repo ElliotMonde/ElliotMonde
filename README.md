@@ -1,8 +1,9 @@
  /*
  *  Hi, I’m Elliot Phua
  *  I’m interested in creating stuff, making art, and tackling challenges
- *  I’m currently learning React and Python
+ *  I’m currently learning Python
  *  I’m looking to collaborate on small projects
+ *  Open to intern end April - early Sept 2023
  *  Reach me thru the links in my bio!
  */
 <!---
