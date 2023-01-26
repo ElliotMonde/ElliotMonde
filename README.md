@@ -2,7 +2,7 @@
  ## Hi, I’m Elliot Phua  
  ✨  I’m interested in creating stuff, making art, and tackling challenges  
    
- ✨  I’m currently learning Algo and DS, using python  
+ ✨  I’m currently learning Algo and DS, using python, 3D-modelling and printing  
    
  ✨  I’m keen to collaborate on small projects  
     
