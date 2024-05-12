@@ -1,14 +1,15 @@
 
  ## Hi, I’m Elliot Phua  
- ✨  🛠️ I’m interested in creating stuff, making art & music, and tackling challenges  
+    
+ ✨  🎨 I’m experienced in fullstack Android app development, and fullstack web-development. 
    
- ✨  ⚡ I’m currently learning Algo and DS, using Java and C, computer architecture.
+ ✨ 👨🏻‍💻 Open to intern end `Aug - Feb 2024` as a `Software Engineering Intern` in Singapore or remotely  
+   
+ ✨  ⚡ I’m currently learning Ruby on Rails.
    
  ✨  🐾 I’m keen to collaborate on small, fun projects
-    
- ✨  🎨 I’m [currently collaborating on an `interactive website`](https://www.linkedin.com/in/elliotphua/details/projects/) to document VJC, and also on a Java e-commerce Android app for a school project.  
-   
- ✨ 👨🏻‍💻 Open to intern end `Aug - Dec 2024` for roles in `Software Engineering Intern, Product Development, Product Manager, or Embedded Systems Engineer` in Singapore or remotely  
+ 
+ ✨  🛠️ I’m interested in creating stuff, making art & music, and tackling challenges  
    
  ✨ 📱 Reach me thru the links in my bio!  
 <!---
