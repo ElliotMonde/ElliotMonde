@@ -3,7 +3,7 @@
     
  ✨  🎨 I’m experienced in fullstack Android app development, and fullstack web-development. 
    
- ✨ 👨🏻‍💻 Open to intern end `Aug - Feb 2024` as a `Software Engineering Intern` in Singapore or remotely  
+ ✨ 👨🏻‍💻 Open to intern end `Aug 2024 - Feb 2025` as a `Software Engineering Intern` in Singapore or remotely  
    
  ✨  ⚡ I’m currently learning Ruby on Rails.
    
