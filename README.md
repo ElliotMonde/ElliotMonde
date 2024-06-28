@@ -15,8 +15,8 @@
  \
  <a href="https://www.linkedin.com/in/elliotphua"><img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" ></a>
  <br/>
- <div style="display:flex;flex:row;height:240;">
- <img style="height:inherit;" width="30%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElliotMonde&layout=compact&langs_count=8&role=owner,collaborator&theme=synthwave" alt="Elliot's Language stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height:inherit;" width="30%" src="https://github-readme-stats.vercel.app/api?username=ElliotMonde&show_icons=true&hide_rank=true&theme=synthwave&include_all_commits=true"/>
+ <div style="display:flex;flex:row;height:259;">
+ <img style="height:inherit;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElliotMonde&layout=compact&langs_count=8&role=owner,collaborator&theme=synthwave" alt="Elliot's Language stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height:inherit;" src="https://github-readme-stats.vercel.app/api?username=ElliotMonde&show_icons=true&hide_rank=true&theme=synthwave&include_all_commits=true"/>
  </div>
 
 <h3>Pinned</h3>
