@@ -25,6 +25,7 @@
 
 <a target="_blank" href="https://github.com/ElliotMonde/JavaAndroidFE">![JavaAndroidFE](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=JavaAndroidFE&theme=tokyonight)</a>&nbsp;<a target="_blank" href="https://github.com/ElliotMonde/Nodeflair_assessment">![Nodeflair](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=Nodeflair_assessment&theme=tokyonight)</a>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ElliotMonde/langs)](https://githubtrends.io)
 <!---
 ElliotMonde/ElliotMonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
