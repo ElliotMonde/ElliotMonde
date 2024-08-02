@@ -24,7 +24,6 @@
 <h3>Pinned</h3>
 
 <a target="_blank" href="https://github.com/ElliotMonde/JavaAndroidFE">![JavaAndroidFE](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=JavaAndroidFE&theme=tokyonight)</a>&nbsp;<a target="_blank" href="https://github.com/ElliotMonde/Nodeflair_assessment">![Nodeflair](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=Nodeflair_assessment&theme=tokyonight)</a>
-<a target="_blank" href="https://github.com/ElliotMonde/Toke-UX-Case-Study">![Toke](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=Toke-UX-Case-Study&theme=tokyonight)</a>
 
 <!---
 ElliotMonde/ElliotMonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
