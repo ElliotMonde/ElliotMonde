@@ -5,7 +5,7 @@
    
  ✨ 👨🏻‍💻 Open to intern end `May 2025 - Sept 2025` as a `Software Engineering Intern` in Singapore or remotely  
    
- ✨  ⚡ I’m currently learning PostgreSQL.
+ ✨  ⚡ I’m currently delving into ML/AI.
    
  ✨  🐾 I’m keen to collaborate on small, fun projects
  
