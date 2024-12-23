@@ -1,7 +1,7 @@
 
  ## Hi, I’m Elliot Phua  
 
- ✨  🎨 I’m experienced in fullstack Android app development, and fullstack web-development. 
+ ✨  🎨 I’m experienced in full stack Android app development, and full stack software development. 
    
  ✨ 👨🏻‍💻 Open to intern `04 Jan 2025 - 31 May 2025` as a `Software Engineering Intern` in Singapore or remotely  
    
