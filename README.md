@@ -25,7 +25,9 @@
 
 <h3>Pinned</h3>
 
-<a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/JavaAndroidFE">![JavaAndroidFE](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=JavaAndroidFE&theme=tokyonight)</a>&nbsp;<a target="_blank" href="https://github.com/ElliotMonde/Nodeflair_assessment">![Nodeflair](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=Nodeflair_assessment&theme=tokyonight)</a>
+<a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/JavaAndroidFE">![JavaAndroidFE](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=JavaAndroidFE&theme=tokyonight)</a>
+&nbsp;<a target="_blank" href="https://github.com/ElliotMonde/Nodeflair_assessment">![Nodeflair](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=Nodeflair_assessment&theme=tokyonight)</a>
+&nbsp;<a target="_blank" href="https://eliph.me">![Eliph.me | Portfolio Site (WIP)](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=eliph.me&theme=tokyonight)</a>
 
 <!---
 ElliotMonde/ElliotMonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
