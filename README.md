@@ -3,7 +3,7 @@
 
  ✨  🎨 I’m experienced in full stack Android app development, and full stack software development. 
    
- ✨ 👨🏻‍💻 Open to intern `04 Jan 2025 - 31 May 2025` as a `Software Engineering Intern` in Singapore or remotely  
+ ✨ 👨🏻‍💻 Open to intern `Part-time: 04 Jan 2025 - 30 Apr 2025` & `Full-time: 01 May 2025 - 01 Sept 2025` as a `Software Engineering Intern` in Singapore or remotely  
    
  ✨  ⚡ I’m currently delving into ML/AI.
    
@@ -15,7 +15,7 @@
  \
  <a rel="noopener" target="_blank" href="https://www.linkedin.com/in/elliotphua"><img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" ></a>
  &nbsp;
- <a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/ElliotMonde/blob/main/ElliotPhua_Dec2024_Resume.pdf"><img src="https://img.shields.io/badge/resume%20(Dec%202024)-ce47eb?style=for-the-badge&logo=googledocs&logoColor=white#gh-light-mode-only" alt="View My Resume Here" ></a>
+ <a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/ElliotMonde/blob/main/ElliotPhua_Resume_Jan2025.pdf"><img src="https://img.shields.io/badge/resume%20(Jan%202025)-ce47eb?style=for-the-badge&logo=googledocs&logoColor=white#gh-light-mode-only" alt="View My Resume Here" ></a>
  <br/>
  <div style="display:flex;flex:row;height:259;">
  <img style="height:inherit;" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElliotMonde&layout=compact&langs_count=8&role=owner,collaborator&theme=synthwave" alt="Elliot's Language stats"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height:inherit;" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ElliotMonde&count_private=true&show_icons=true&hide_rank=true&theme=synthwave&include_all_commits=true&include_all_commits=true" />
