@@ -3,7 +3,7 @@
 
  ✨  🎨 I’m experienced in full stack Android app development, and full stack software development. 
    
- ✨ 👨🏻‍💻 Open to intern `Part-time: 04 Jan 2025 - 30 Apr 2025` & `Full-time: 01 May 2025 - 01 Sept 2025` as a `Software Engineering Intern` in Singapore or remotely  
+ ✨ 👨🏻‍💻 Open to intern `Full-time: 15 May 2025 - 05 Sept 2025` & `Part-time: 05 Sep 2025 - 31 Dec 2025` as a `Software Engineering Intern` in Singapore or remotely  
    
  ✨  ⚡ I’m currently delving into ML/AI.
    
