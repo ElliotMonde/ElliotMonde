@@ -1,15 +1,15 @@
 
  ## Hi, I’m Elliot Phua  
 
- ✨  🎨 I’m experienced in full stack Android app development, and full stack software development. 
+ ✨ 🎨 I’m experienced in Full-stack Software Development, Machine Learning Algorithms, and Database Systems. 
    
- ✨ 👨🏻‍💻 Open to intern `Full-time: 15 May 2025 - 05 Sept 2025` & `Part-time: 05 Sep 2025 - 31 Dec 2025` as a `Software Engineering Intern` in Singapore or remotely  
+ ✨ 👨🏻‍💻 Open for `Full-time Junior SWE role`, able to begin from `01 May 2026` in Singapore or remotely  
    
- ✨  ⚡ I’m currently delving into ML/AI.
+ ✨ :electron: I’m currently delving into ML/AI.
    
- ✨  🐾 I’m keen to collaborate on small, fun projects
+ ✨ 💾 I’m keen to collaborate on small, fun projects
  
- ✨  🛠️ I’m interested in creating stuff, making art & music, and tackling challenges  
+ ✨ 💡 I’m interested in creating stuff, making art & music, and tackling challenges  
    
  ✨ 📱 Reach me thru the links in my bio!\
  \
@@ -18,7 +18,9 @@
  <a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/ElliotMonde/blob/main/ElliotPhua_Feb2025_Resume.pdf"><img src="https://img.shields.io/badge/resume%20(Feb%202025)-ce47eb?style=for-the-badge&logo=googledocs&logoColor=white#gh-light-mode-only" alt="View My Resume Here" ></a>
  <br/>
  <div style="display:flex;flex:row;height:259;">
- <img style="height:inherit;" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElliotMonde&layout=compact&langs_count=8&role=owner,collaborator&theme=synthwave" alt="Elliot's Language stats"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height:inherit;" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ElliotMonde&count_private=true&show_icons=true&hide_rank=true&theme=synthwave&include_all_commits=true&include_all_commits=true" />
+ <img style="height:inherit;" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElliotMonde&layout=compact&langs_count=8&role=owner,collaborator&theme=synthwave&hide=c%2B%2B,ejs,scss,css" alt="Elliot's Language stats"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img style="height:inherit;" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ElliotMonde&count_private=true&show_icons=true&hide_rank=true&theme=synthwave&include_all_commits=true" />
 
  </div>
    
