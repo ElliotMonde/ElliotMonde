@@ -18,7 +18,7 @@
  <a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/ElliotMonde/blob/main/ElliotPhua_Feb2025_Resume.pdf"><img src="https://img.shields.io/badge/resume%20(Feb%202025)-ce47eb?style=for-the-badge&logo=googledocs&logoColor=white#gh-light-mode-only" alt="View My Resume Here" ></a>
  <br/>
  <div style="display:flex;flex:row;height:259;">
- <img style="height:inherit;" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElliotMonde&layout=compact&langs_count=8&role=owner,collaborator&theme=synthwave&hide=c%2B%2B,ejs,scss,css" alt="Elliot's Language stats"/>
+ <img style="height:inherit;" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElliotMonde&layout=compact&langs_count=8&role=owner,collaborator&theme=synthwave&hide=c%2B%2B,ejs,scss,css,jupyter%20notebook" alt="Elliot's Language stats"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img style="height:inherit;" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ElliotMonde&count_private=true&show_icons=true&hide_rank=true&theme=synthwave&include_all_commits=true" />
 
