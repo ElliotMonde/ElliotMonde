@@ -27,7 +27,7 @@
 
 <h3>Pinned</h3>
 
-<a target="_blank" href="https://github.com/ElliotMonde/Nodeflair_assessment">![Video Analytics on Edge System](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=VA_on_edge&theme=tokyonight)</a>
+<a target="_blank" href="https://github.com/ElliotMonde/VA_on_edge">![Video Analytics on Edge System](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=VA_on_edge&theme=tokyonight)</a>
 &nbsp;
 <a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/JavaAndroidFE">![JavaAndroidFE](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=JavaAndroidFE&theme=tokyonight)</a>
 &nbsp;
