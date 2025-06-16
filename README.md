@@ -5,7 +5,7 @@
    
  ✨ 👨🏻‍💻 Open for `Full-time Junior SWE role`, able to begin from `01 May 2026` in Singapore or remotely  
    
- ✨ :electron: I’m currently delving into ML/AI.
+ ✨ :electron: I’m currently developing ML/AI applications.
    
  ✨ 💾 I’m keen to collaborate on small, fun projects
  
@@ -27,9 +27,11 @@
 
 <h3>Pinned</h3>
 
+<a target="_blank" href="https://github.com/ElliotMonde/Nodeflair_assessment">![Video Analytics on Edge System](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=VA_on_edge&theme=tokyonight)</a>
+&nbsp;
 <a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/JavaAndroidFE">![JavaAndroidFE](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=JavaAndroidFE&theme=tokyonight)</a>
-&nbsp;<a target="_blank" href="https://github.com/ElliotMonde/Nodeflair_assessment">![Nodeflair](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=Nodeflair_assessment&theme=tokyonight)</a>
-&nbsp;<a target="_blank" href="https://eliph.me">![Eliph.me | Portfolio Site (WIP)](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=eliph.me&theme=tokyonight)</a>
+&nbsp;
+<a target="_blank" href="https://eliph.me">![Eliph.me | Portfolio Site (WIP)](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=eliph.me&theme=tokyonight)</a>
 
 <!---
 ElliotMonde/ElliotMonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
