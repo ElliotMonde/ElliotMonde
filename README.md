@@ -5,7 +5,7 @@
  
  ✨ 🎨 I’m experienced in Full-stack Software Development, Machine Learning Algorithms, and Database Systems. 
      
- ✨ :electron: I’m currently developing ML/AI applications.
+ ✨ :electron: I’m currently developing ML/AI applications at Knovel Engineering.
    
  ✨ 💾 I’m keen to collaborate on small, fun projects
  
