@@ -11,7 +11,7 @@
  
  ✨ 💡 I’m interested in creating stuff, making art & music, and tackling challenges  
    
- ✨ 📱 Reach me thru the links in my bio!\
+ ✨ 📬 Reach me thru [LinkedIn](https://www.linkedin.com/in/elliotphua/) or [Email](mailto:elliotphua@gmail.com)!\
  \
  <a rel="noopener" target="_blank" href="https://www.linkedin.com/in/elliotphua"><img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" ></a>
  &nbsp;
