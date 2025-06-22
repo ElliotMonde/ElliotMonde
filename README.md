@@ -15,7 +15,7 @@
  \
  <a rel="noopener" target="_blank" href="https://www.linkedin.com/in/elliotphua"><img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" ></a>
  &nbsp;
- <a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/ElliotMonde/blob/main/ElliotPhua_Feb2025_Resume.pdf"><img src="https://img.shields.io/badge/resume%20(Feb%202025)-ce47eb?style=for-the-badge&logo=googledocs&logoColor=white#gh-light-mode-only" alt="View My Resume Here" ></a>
+ <a rel="noopener" target="_blank" href="https://drive.google.com/file/d/1Q62wekGHp8w5QheT3UgKjnNxHyG9yZII/view?usp=sharing"><img src="https://img.shields.io/badge/resume%20(June%202025)-ce47eb?style=for-the-badge&logo=googledocs&logoColor=white#gh-light-mode-only" alt="View My Resume Here" ></a>
  <br/>
  <div style="display:flex;flex:row;height:259;">
  <img style="height:inherit;" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElliotMonde&layout=compact&langs_count=8&role=owner,collaborator&theme=synthwave&hide=c%2B%2B,ejs,scss,css,jupyter%20notebook" alt="Elliot's Language stats"/>
