@@ -17,22 +17,22 @@
  &nbsp;
  <a rel="noopener" target="_blank" href="https://drive.google.com/file/d/1Q62wekGHp8w5QheT3UgKjnNxHyG9yZII/view?usp=sharing"><img src="https://img.shields.io/badge/resume%20(June%202025)-ce47eb?style=for-the-badge&logo=googledocs&logoColor=white#gh-light-mode-only" alt="View My Resume Here" ></a>
  <br/>
+ <div style="display:flex;flex:col;">
  <div style="display:flex;flex:row;height:259;">
- <img style="height:inherit;" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElliotMonde&layout=compact&langs_count=8&role=owner,collaborator&theme=synthwave&hide=c%2B%2B,ejs,scss,css,jupyter%20notebook" alt="Elliot's Language stats"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img style="height:inherit;" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ElliotMonde&count_private=true&show_icons=true&hide_rank=true&theme=synthwave&include_all_commits=true" />
+<!-- <img style="height:inherit;" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElliotMonde&layout=compact&langs_count=8&role=owner,collaborator&theme=synthwave&hide=c%2B%2B,ejs,scss,css,jupyter%20notebook" alt="Elliot's Language stats"/> -->
+<!--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+ <img style="height:inherit;" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ElliotMonde&count_private=true&show_icons=true&hide_rank=true&theme=synthwave&include_all_commits=true" />
 
  </div>
-   
-
-<h3>Pinned</h3>
+<div>
 
 <a target="_blank" href="https://github.com/ElliotMonde/VA_on_edge">![Video Analytics on Edge System](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=VA_on_edge&theme=tokyonight)</a>
 &nbsp;
 <a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/JavaAndroidFE">![JavaAndroidFE](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=JavaAndroidFE&theme=tokyonight)</a>
 &nbsp;
 <a target="_blank" href="https://eliph.me">![Eliph.me | Portfolio Site (WIP)](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=eliph.me&theme=tokyonight)</a>
-
+</div>
+</div>
 <!---
 ElliotMonde/ElliotMonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
