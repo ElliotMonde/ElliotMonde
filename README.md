@@ -30,7 +30,7 @@
 &nbsp;
 <a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/JavaAndroidFE">![JavaAndroidFE](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=JavaAndroidFE&theme=tokyonight)</a>
 &nbsp;
-<a target="_blank" href="https://eliph.me">![Eliph.me | Portfolio Site (WIP)](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=eliph.me&theme=tokyonight)</a>
+<!--<a target="_blank" href="https://eliph.me">![Eliph.me | Portfolio Site (WIP)](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=eliph.me&theme=tokyonight)</a>-->
 </div>
 </div>
 <!---
