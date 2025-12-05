@@ -3,13 +3,13 @@
  
  ✨ 👨🏻‍💻 Open for **`Full-time Junior SWE role`, able to begin from `01 June 2026`** in Singapore or remotely.
  
- ✨ 🎨 I’m experienced in Full-stack Software Development, Machine Learning Algorithms, and Database Systems. 
+ ✨ 💡 I’m experienced in Full-stack Software Development, Machine Learning Algorithms, and Database Systems. 
      
  ✨ :electron: I’m currently developing ML/AI applications.
    
  ✨ 💾 I’m keen to collaborate on small, fun projects.
  
- ✨ 💡 I’m interested in innovating technologies, making art & music, and tackling challenges.
+ ✨ 🎨 I’m interested in innovating technologies, making art & music, and tackling challenges.
    
  ✨ 📬 Reach me thru [LinkedIn](https://www.linkedin.com/in/elliotphua/) or [Email](mailto:elliotphua@gmail.com)!\
  \
