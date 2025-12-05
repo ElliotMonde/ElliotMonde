@@ -28,7 +28,11 @@
 
 <a target="_blank" href="https://github.com/ElliotMonde/VA_on_edge">![Video Analytics on Edge System](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=VA_on_edge&theme=tokyonight)</a>
 &nbsp;
-<a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/JavaAndroidFE">![JavaAndroidFE](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=JavaAndroidFE&theme=tokyonight)</a>
+<a target="_blank" href="https://github.com/ElliotMonde/FlushFlow-50046-iot-project">![FlushFlow: Facility Management Using IoT](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=FlushFlow-50046-iot-project&theme=tokyonight)</a>
+&nbsp;
+<a target="_blank" href="https://github.com/ElliotMonde/PoliSense">![PoliSense AI: News Article Political Leaning & Bias](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=PoliSense&theme=tokyonight)</a>
+&nbsp;
+<a rel="noopener" target="_blank" href="https://github.com/ElliotMonde/JavaAndroidFE">![Bulkify: Bulk Buying Android App Frontend](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=JavaAndroidFE&theme=tokyonight)</a>
 &nbsp;
 <!--<a target="_blank" href="https://eliph.me">![Eliph.me | Portfolio Site (WIP)](https://github-readme-stats.vercel.app/api/pin/?username=ElliotMonde&repo=eliph.me&theme=tokyonight)</a>-->
 </div>
