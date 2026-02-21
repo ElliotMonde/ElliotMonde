@@ -15,7 +15,7 @@
  \
  <a rel="noopener" target="_blank" href="https://www.linkedin.com/in/elliotphua"><img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" ></a>
  &nbsp;
- <a rel="noopener" target="_blank" href="https://drive.google.com/file/d/1Q62wekGHp8w5QheT3UgKjnNxHyG9yZII/view?usp=sharing"><img src="https://img.shields.io/badge/resume%20(Nov%202025)-ce47eb?style=for-the-badge&logo=googledocs&logoColor=white#gh-light-mode-only" alt="View My Resume Here" ></a>
+ <a rel="noopener" target="_blank" href="https://drive.google.com/file/d/1h13_csgaMDhjgzcd49z-ye7GkqLkdCpY/?usp=sharing"><img src="https://img.shields.io/badge/resume%20(Feb%202026)-ce47eb?style=for-the-badge&logo=googledocs&logoColor=white#gh-light-mode-only" alt="View My Resume Here" ></a>
  <br/>
  <div style="display:flex;flex:col;">
  <div style="display:flex;flex:row;height:259;">
