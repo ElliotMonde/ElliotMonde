@@ -1,7 +1,7 @@
 
  ## Hi, I’m Elliot Phua  
  
- ✨ 👨🏻‍💻 Open for **`Full-time Junior SWE role`, able to begin from `01 June 2026`** in Singapore or remotely.
+ ✨ 👨🏻‍💻 SW Eng
  
  ✨ 💡 I’m experienced in Full-stack Software Development, Machine Learning Algorithms, and Database Systems. 
      
