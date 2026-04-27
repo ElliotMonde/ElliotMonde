@@ -1,7 +1,7 @@
 
  ## Hi, I’m Elliot Phua  
  
- ✨ 👨🏻‍💻 SW Eng
+ ✨ 👨🏻‍💻 SWE at Visa Inc.
  
  ✨ 💡 I’m experienced in Full-stack Software Development, Machine Learning Algorithms, and Database Systems. 
      
